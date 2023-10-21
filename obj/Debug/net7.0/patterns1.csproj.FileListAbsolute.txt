@@ -1,0 +1,14 @@
+C:\Users\exnew88ATmail.ru\Desktop\patterns1\obj\Debug\net7.0\patterns1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exnew88ATmail.ru\Desktop\patterns1\obj\Debug\net7.0\patterns1.AssemblyInfoInputs.cache
+C:\Users\exnew88ATmail.ru\Desktop\patterns1\obj\Debug\net7.0\patterns1.AssemblyInfo.cs
+C:\Users\exnew88ATmail.ru\Desktop\patterns1\obj\Debug\net7.0\patterns1.csproj.CoreCompileInputs.cache
+C:\Users\exnew88ATmail.ru\Desktop\patterns1\bin\Debug\net7.0\patterns1.exe
+C:\Users\exnew88ATmail.ru\Desktop\patterns1\bin\Debug\net7.0\patterns1.deps.json
+C:\Users\exnew88ATmail.ru\Desktop\patterns1\bin\Debug\net7.0\patterns1.runtimeconfig.json
+C:\Users\exnew88ATmail.ru\Desktop\patterns1\bin\Debug\net7.0\patterns1.dll
+C:\Users\exnew88ATmail.ru\Desktop\patterns1\bin\Debug\net7.0\patterns1.pdb
+C:\Users\exnew88ATmail.ru\Desktop\patterns1\obj\Debug\net7.0\patterns1.dll
+C:\Users\exnew88ATmail.ru\Desktop\patterns1\obj\Debug\net7.0\refint\patterns1.dll
+C:\Users\exnew88ATmail.ru\Desktop\patterns1\obj\Debug\net7.0\patterns1.pdb
+C:\Users\exnew88ATmail.ru\Desktop\patterns1\obj\Debug\net7.0\patterns1.genruntimeconfig.cache
+C:\Users\exnew88ATmail.ru\Desktop\patterns1\obj\Debug\net7.0\ref\patterns1.dll

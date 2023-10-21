@@ -1,0 +1,3 @@
+interface IQuackBehavior{
+    void quack();
+}
